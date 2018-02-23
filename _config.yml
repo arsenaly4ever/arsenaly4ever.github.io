@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Abdullah Alsharef
+title: arsenaly4ever
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Abdullah Alsharef
   avatar: bio-photo.jpg
-  bio: "Abdullha is a grduate student at NCSU"
+  bio: "Arsenal4ever"
   email: #a.f.alsharef
   # Do not include the @ symbol in your Twitter username
   twitter: #username
